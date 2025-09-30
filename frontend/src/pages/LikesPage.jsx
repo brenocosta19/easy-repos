@@ -2,7 +2,9 @@ import React from 'react'
 
 function LikesPage() {
   return (
-    <div>LikesPage</div>
+    <div className='relative overflow-x-auto shadow-md'>
+
+    </div>
   )
 }
 
